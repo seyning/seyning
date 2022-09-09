@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seyning
+- 👋 Hi, I’m Sey Wayhive
 - 👀 I’m interested in software part of technology
 - 🌱 I’m currently learning php, pyhton and flutter
 - 💞️ I’m looking to collaborate on a full stack web development project
